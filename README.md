@@ -1,7 +1,6 @@
 ----------------
 About the Plugin
 ----------------
-
 apigee-edge-maven-plugin is a build and deploy utility for building and deploying the Apigee ApiProxy's/Application bundles into Apigee Edge Platform. 
 The code is distributed under the Apache License 2.0.
 
